@@ -18,14 +18,14 @@
 
 ## Future Meeting Schedules (Open to suggestions) ##
 
-##### Monday Meeting: Concepts
+#### Monday Meeting: Concepts
 - Warmup code Kata
 - Learn a new Data Structure or Algorithm Concept
 - Practice! (I will write problems and tests for the concept of the week)
 - Share resources for self study on this concept
 - Takehome Problem (PRAMP style)
 
-##### Wednesday Meetings: Interviews
+#### Wednesday Meetings: Interviews
 - Warmup code Kata
 - Talk about interviewing techniques
 - Pair off for mock whiteboard interviews
