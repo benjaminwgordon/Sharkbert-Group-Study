@@ -30,4 +30,4 @@
 - Talk about interviewing techniques
 - Pair off for mock whiteboard interviews
 - Select a DS/Algo for next week
-- Give out self study matierals to prepare for next Monday
+- Give out self study materials to prepare for next Monday
