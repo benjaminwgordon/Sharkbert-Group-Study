@@ -16,7 +16,7 @@
 - Student Mentors
 
 
-#### Future Meeting Schedules (Open to suggestions) ####
+## Future Meeting Schedules (Open to suggestions) ##
 
 ##### Monday Meeting: Concepts
 - Warmup code Kata
