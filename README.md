@@ -42,7 +42,7 @@ Khan Academy:
 : https://www.khanacademy.org/computing/computer-science/algorithms 
 
 CodeWars:
-: CodeWars.com
+: https://www.codewars.com/
  
 ##### Intermediate:
 PRAMP: 
