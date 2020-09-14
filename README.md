@@ -38,15 +38,15 @@
 Colt Steele's JavaScript Algorithms and Data Structures Masterclass (usually on sale for $9-12)
 : https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
 
-Khan Academy:
+Khan Academy
 : https://www.khanacademy.org/computing/computer-science/algorithms 
 
-CodeWars:
+CodeWars
 : https://www.codewars.com/
  
 ##### Intermediate:
-PRAMP: 
+PRAMP
 : https://www.pramp.com/#/
 
-LeetCode:
+LeetCode
 : https://leetcode.com/
