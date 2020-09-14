@@ -37,9 +37,9 @@
 ##### Beginner
 Colt Steele's JavaScript Algorithms and Data Structures Masterclass (usually on sale for $9-12)
 : https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/
+
 Khan Academy:
 : https://www.khanacademy.org/computing/computer-science/algorithms 
-Cracking the Coding Interview:
 
 CodeWars:
 : CodeWars.com
@@ -47,5 +47,6 @@ CodeWars:
 ##### Intermediate:
 PRAMP: 
 : https://www.pramp.com/#/
+
 LeetCode:
 : https://leetcode.com/
