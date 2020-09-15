@@ -46,9 +46,9 @@
 
   
 
-| Week | M | 
+| Week | Concept | 
 
-|--|--|
+| -- | -- |
 
 | 1 | Introduction / [FizzBuzz](https://github.com/benjaminwgordon/fizzbuzz)  |
 
