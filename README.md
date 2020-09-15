@@ -3,7 +3,7 @@
 
 # Sharkbert Study Group
 
-   ## Schedule Meeting Days and Times TBD
+   ## Schedule   (Meeting Days and Times TBD)
 
 |Week|Concept |
 |--|--|
