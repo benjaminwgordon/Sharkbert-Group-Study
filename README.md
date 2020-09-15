@@ -3,60 +3,22 @@
 
 # Sharkbert Study Group
 
-  
+   ## Schedule
 
-  
+|Week|Concept |
+|--|--|
+| 1 | [FizzBuzz](https://github.com/benjaminwgordon/fizzbuzz)  |
+| 2 | Sliding Window Pattern |
+| 3 | Frequency Counter Pattern |
+| 4 | Two Pointers Pattern |
 
-## Meeting 1
-
-  
-
-  
-
-#### What material are we here to study?
-
-  
-
-- Data Structures
-
-  
-
-- Algorithms
-
-  
-
-- Whiteboard Coding
-
-  
-
-- Mock Interviews  
-
-## Future Meeting Schedules
-
-  
-
-#### Meeting Schedule (WIP)
+  ## Future Meeting Plans
 - Learn new Data Structure or Algorithm Concept
-- Practice! (I will write problems and tests for the concept of the week)
 - Talk about interviewing techniques
 - Pair off for mock whiteboard interviews
 - Select a DS/Algo for next week
 - Give out self study materials to prepare for next week
- ---
-
-  
-
-| Week | Concept | 
-
-| -- | -- |
-
-| 1 | Introduction / [FizzBuzz](https://github.com/benjaminwgordon/fizzbuzz)  |
-
-| 2 | Sliding Window Pattern |
-
-| 3 | Frequency Counter Pattern |
-
-| 4 | Two Pointers Pattern | 
+- Share resources for self study on this concept
 
 ---
 
