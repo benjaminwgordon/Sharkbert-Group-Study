@@ -41,15 +41,14 @@
 - Talk about interviewing techniques
 - Pair off for mock whiteboard interviews
 - Select a DS/Algo for next week
-- Give out self study materials to prepare for next Monday
-- Share resources for self study on this concept
+- Give out self study materials to prepare for next week
  ---
 
   
 
 | Week | M | 
 
-|--|--|--|
+|--|--|
 
 | 1 | Introduction / [FizzBuzz](https://github.com/benjaminwgordon/fizzbuzz)  |
 
