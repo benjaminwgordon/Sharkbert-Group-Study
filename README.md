@@ -8,7 +8,7 @@
 |Week|Concept|
 |--|--|
 | 1 | [FizzBuzz](https://github.com/benjaminwgordon/fizzbuzz)  |
-| 2 | Sliding Window Pattern |
+| 2 | [Sliding Window Pattern](https://github.com/benjaminwgordon/Sliding-Window-Pattern-Lesson) |
 | 3 | Frequency Counter Pattern |
 | 4 | Two Pointers Pattern |
 
