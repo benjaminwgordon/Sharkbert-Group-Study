@@ -3,9 +3,9 @@
 
 # Sharkbert Study Group
 
-   ## Schedule   (Meeting Days and Times TBD)
+   ## Schedule: Sundays @12:00pm CST, Wednesdays @5:10PM CST
 
-|Week|Concept |
+|Week|Concept|
 |--|--|
 | 1 | [FizzBuzz](https://github.com/benjaminwgordon/fizzbuzz)  |
 | 2 | Sliding Window Pattern |
