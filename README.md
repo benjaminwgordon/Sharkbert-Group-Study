@@ -12,6 +12,11 @@
 | 3 | Frequency Counter Pattern |
 | 4 | Two Pointers Pattern |
 
+  ## Data Structures and Algorithms
+- [DS/Algos](https://github.com/benjaminwgordon/Python-Algorithm-Practice)
+- I am personally practicing DS/Algos in this repo
+- This might be useful reference material
+
   ## Future Meeting Plans
 - Learn new Data Structure or Algorithm Concept
 - Talk about interviewing techniques
