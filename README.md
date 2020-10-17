@@ -9,20 +9,9 @@
 |--|--|
 | 1 | [FizzBuzz](https://github.com/benjaminwgordon/fizzbuzz)  |
 | 2 | [Sliding Window Pattern](https://github.com/benjaminwgordon/Sliding-Window-Pattern-Lesson) |
-| 3 | Frequency Counter Pattern |
-| 4 | Two Pointers Pattern |
-
-  ## Data Structures and Algorithms : [DS/Algos](https://github.com/benjaminwgordon/Python-Algorithm-Practice)
-- I am personally practicing DS/Algos in this repo
-- This might be useful reference material
-
-  ## Future Meeting Plans
-- Learn new Data Structure or Algorithm Concept
-- Talk about interviewing techniques
-- Pair off for mock whiteboard interviews
-- Select a DS/Algo for next week
-- Give out self study materials to prepare for next week
-- Share resources for self study on this concept
+| 3 | [Intro to O(n) Notation, Linear Search, Binary Search, Insertion Sort, Bubble Sort](https://github.com/benjaminwgordon/Python-Algorithm-Practice)  |
+| 4 | [Intro to Recursion, Recursive Merge Sort](https://github.com/benjaminwgordon/Python-Algorithm-Practice)  |
+| 5 | [Review of Recursion, Recursive QuickSort](https://github.com/benjaminwgordon/Python-Algorithm-Practice)
 
 ---
 
